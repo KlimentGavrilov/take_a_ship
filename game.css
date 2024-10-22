@@ -27,8 +27,8 @@ canvas {
     background: rgb(204, 247, 204);
     display: block;
     border-radius: 50px;
-    width: 800px;
-    height: 400px;
+    width: 1920px;
+    height: 1080px;
 }
 
 button {
